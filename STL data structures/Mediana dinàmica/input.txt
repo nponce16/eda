@@ -1,0 +1,6 @@
+hello
+bye
+adeu
+hi
+hello
+END
